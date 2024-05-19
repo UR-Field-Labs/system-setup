@@ -27,9 +27,10 @@ Please follow the steps prior to coming to the Entrance Cafe, so that we do not 
 4. Set up Python (optional). This will create a basic conda environment with useful packages:
     1. Download and install [miniforge](https://github.com/conda-forge/miniforge?tab=readme-ov-file). Go to the link, scroll down to download, and choose the one that matches your operating system. Miniforge is a light-weighted system for downloading packages relevant to Python.
     2. If Windows, open Miniforge prompt. If Mac, open terminal.
-    3. Download the environment builder [fieldlab.yml]() file. Navigate via Miniforge prompt (or terminal if Mac) to the folder which contains the fieldlab.yml file. This is a simple environment file to provide you the necessary python modules.
-    4. Run the command: ```conda env create -f fieldlab.yml```
-    5. To enter the environment, run the command: ```conda activate fieldlab```
+    3. Download the environment builder [fieldlab.yml](https://github.com/UR-Field-Labs/system-setup/blob/main/fieldlab.yml) file (there should be a download button in a dropdown menu for one of the buttons on the right. _fieldlab.yml_ is a simple environment file to provide you the necessary python modules.
+    4. Navigate via Miniforge prompt (or terminal if Mac) to the folder which contains the _fieldlab.yml_ file that you downloaded. 
+    5. Run the command: ```conda env create -f fieldlab.yml``` you downloaded
+    6. To enter the environment, run the command: ```conda activate fieldlab```
 
 
 If you have any questions/issues, please reach out to Neel on Slack.
