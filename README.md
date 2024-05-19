@@ -1,4 +1,4 @@
-# Coding Environment Setup for the Field Lab 2024
+# Coding Environment Setup for the Field Lab 2024 (20 minutes)
 
 This document details installations that you should do to set up a minimal environment for performing effective coding and visualization. This document is most relevant for the AI/ML and data visualization working groups.
 
