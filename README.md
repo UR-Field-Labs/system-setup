@@ -10,13 +10,13 @@ We will be working with four tools:
 1. Github. This is a code management and version control software which is especially helpful when working within teams.
 2. QGIS: This is an open-source GIS (Geographic Information Systems) platform, useful for viewing spatial data.
 3. R: This is a handy coding language, useful for quick, small-scale coding related to statistics and machine learning.
-4. Python (optional): This is an extensive coding language, great for large-scale efficient coding.
+4. Python (optional): This is an extensive coding language, fantastic for large-scale efficient coding.
 
 ## Steps
 
 Please follow the steps prior to coming to the Entrance Cafe, so that we do not run into wifi overload.
 
-1. If you are interested in contributing to coding projects,
+1. This step matters only if you are interested in **contributing** to coding projects. If you just want to play with code and learn, you are welcome to skip this step.
     1. Please [register for a Github account](https://github.com/) if you do not have one already. 
     2. Provide your github id (or username) to Neel on Slack with the word ‘github’ in the message, so that he can add you to the Field Lab Github organization.’
     3. Download [Github Desktop](https://desktop.github.com/), and log in with your Github.
