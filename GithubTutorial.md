@@ -23,10 +23,10 @@ Github helps you avoid that. It is a version control software. When you write an
 
 ### Exercise 1: Create your own repository and populate it.
 
-1. Open github.com. Click create new repository. Give it a name, say ‘test’.
+1. Open the [Github website](https://github.com/). Click create new repository. Give it a name, say ‘test_(your name)’.
 2. Open Github desktop. From Settings, login to your github account.
 3. From Github desktop top bar options, say ‘Clone repository.’ Look for ‘test.’ Clone.
-4. Add a script.R file with a very basic R line in it e.g. ```print(3+4)```.
+4. Add a *script.R* file with a very basic R line in it e.g. ```print(3+4)```.
 5. Follow the 3 github steps: add, commit, push.
     1. Add: add the files you want to update.
     2. Commit: commit to the changes you made. This puts a stamp on the changes of your code on your local machine. You can write explanatory test around it.
@@ -35,7 +35,7 @@ Github helps you avoid that. It is a version control software. When you write an
 
 ### Exercise 2: Editing from another ‘computer’.
 
-1. On the github website, edit the script directly. Add an extra line to it e.g. ```print(‘hello’)```. Commit it. There is no need to push here because you have made changes directly to the github server.
+1. On the [Github website](https://github.com/), go to your repository and edit the script directly. Add an extra line to it e.g. ```print(‘hello’)```. Commit it. There is no need to push here because you have made changes directly to the main Github server.
 2. On your github desktop, say ‘Fetch/pull.’ And see the file changes.
 3. Add a second file *test2.R*, put some lines of code in it. Then add, commit, push.
 4. See the changes on the github website.
@@ -51,6 +51,6 @@ Github helps you avoid that. It is a version control software. When you write an
 
 ## Additional things to know
 
-- Sometimes, organizations such as NTU put additional security, requiring you to connect to a Github account within the NTU organization via an SSH key. This is an added layer of security which is somewhat cumbersome. Talk to Neel if you want to fix this.
-- The common way of building new code is to branch. Generally, you have a main working version of code, and each individual team member ‘branches out’ to add features. They write code on their own branch. When the code on the branch is tested, and when the team agrees that the branch should be added, the branch is then merged into the main code.
+- Sometimes, organizations put additional security, requiring you to connect to a Github account within the organization via an SSH key. This is an added layer of security which is somewhat cumbersome. Talk to Neel if you want to know more.
+- The common way of building new code is to branch. Generally, you have a main working version of code, and each individual team member ‘branches out’ to add features. They write code on their own branch. When the code on the branch has been thorougly tested, and when the team agrees that the branch should be added, the branch is then merged back into the main code.
 - Always keep each repository as a separate folder. It is a very bad idea to have a repository within a repository.
