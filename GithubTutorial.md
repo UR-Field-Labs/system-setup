@@ -23,11 +23,11 @@ Github helps you avoid that. It is a version control software. When you write an
 
 ### Exercise 1: Create your own repository and populate it.
 
-1. Open the [Github website](https://github.com/). Click create new repository. Give it a name, say ‘test_(your name)’.
-2. Open Github desktop. From Settings, login to your github account.
-3. From Github desktop top bar options, say ‘Clone repository.’ Look for ‘test.’ Clone.
+1. Open the [Github website](https://github.com/). Click *Create new repository*. Give it a name, say ‘test_(your name)’.
+2. Open Github desktop. From Settings, login to your Github account.
+3. From Github desktop top bar options, say *Clone repository.* Look for ‘test.’ Clone.
 4. Add a *script.R* file with a very basic R line in it e.g. ```print(3+4)```.
-5. Follow the 3 github steps: add, commit, push.
+5. Follow the 3 github steps: *add, commit, push*.
     1. Add: add the files you want to update.
     2. Commit: commit to the changes you made. This puts a stamp on the changes of your code on your local machine. You can write explanatory test around it.
     3. Push: push the changes to the Github server so that your committed changes are implemented in all github copies of your code.
