@@ -10,7 +10,7 @@ We will be working with four tools:
 1. Github. This is a code management and version control software which is especially helpful when working within teams.
 2. QGIS: This is an open-source GIS (Geographic Information Systems) platform, useful for viewing spatial data.
 3. R: This is a handy coding language, useful for quick, small-scale coding related to statistics and machine learning.
-4. Python (optional): This is an extensive coding language, fantastic for large-scale efficient coding.
+4. **(optional)** Python: This is an extensive coding language, fantastic for large-scale efficient coding.
 
 ## Steps
 
@@ -24,7 +24,7 @@ Please follow the steps prior to coming to the Entrance Cafe, so that we do not 
 3. Set up R:
     1. Download [R](https://cran.r-project.org/). This is the core program compiler and interpreter.
     2. Download [R-studio](https://posit.co/download/rstudio-desktop/). This is a nice platform to work with R.
-4. Set up Python (optional). This will create a basic conda environment with useful packages:
+4. **(optional)** Set up Python. This will create a basic conda environment with useful packages:
     1. Download and install [miniforge](https://github.com/conda-forge/miniforge?tab=readme-ov-file). Go to the link, scroll down to download, and choose the one that matches your operating system. Miniforge is a light-weighted system for downloading packages relevant to Python.
     2. If Windows, open Miniforge prompt. If Mac, open terminal.
     3. Download the environment builder [fieldlab.yml](https://github.com/UR-Field-Labs/system-setup/blob/main/fieldlab.yml) file (there should be a download button in a dropdown menu for one of the buttons on the right. _fieldlab.yml_ is a simple environment file to provide you the necessary python modules.
