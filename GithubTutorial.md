@@ -1,7 +1,7 @@
 # A crash course on Github
 Neel: 19-05-2024
 
-## What is github?
+## What is Github?
 
 Do you have folders filled with versions of digital documents: **draft.doc, draft_final.doc, draft_final_final.doc, draft_final_final_revised.doc…**
 
